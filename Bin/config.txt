@@ -1,0 +1,8 @@
+UNL=""
+CRB="C:\crb_325F\crb.exe"
+MIF="C:\ADB\Tools\Pro\XiaoMiFlash\XiaoMiFlash.exe"
+DNS="C:\ADB\Tools\DNS.exe"
+PRO="C:\ADB\Tools\Pro\miflash_pro.exe"
+M="C:\ADB\Tools\Magisk-v25.2.3.apk"
+Deblotware="C:\ADB\Bin\uad_gui-windows.exe"
+MIU="C:\ADB\Tools\Unlock\miflash_unlock.exe"
